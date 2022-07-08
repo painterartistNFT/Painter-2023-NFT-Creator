@@ -1,6 +1,6 @@
 # Painter 2023 Full Versions
 -------------
-![alt-текст](![image](https://user-images.githubusercontent.com/108937754/178011776-1808840d-c578-4ec2-b491-9feffab14368.png)
+![image](https://user-images.githubusercontent.com/108937754/178011776-1808840d-c578-4ec2-b491-9feffab14368.png)
 ")
 # Closed version for promoters.
 ### 💻 Only for Windows 7/8/8.1/10
@@ -11,7 +11,7 @@
 * RAM - 8 GB or more
 * Disk space - 10 GB free space
 
-![alt-текст](![image](https://user-images.githubusercontent.com/108937754/178012016-5878aeca-f087-438f-9e99-657188d7ded2.png)
+![image](https://user-images.githubusercontent.com/108937754/178012016-5878aeca-f087-438f-9e99-657188d7ded2.png)
 ")
 🎨 How do I create NFT art?
 Using Painter 2023 you can create several different types of NFT art. The first method, "Style Transfer," is good for turning photos into beautiful pieces of digital art. The second method, "Text to Image," lets you create incredible works of NFT art from just a text cue. To get started on your digital NFT design, click "Create" on the NightCafe main menu, and then select your preferred creation method. Our NFT generator will help you create NFTs that you can then sell.
@@ -59,5 +59,4 @@ Yes! If you own (or have permission to use) the original assets used to create y
 - Don't forget the backgrounds! Choose from over 1,000 backgrounds to give your artwork a more personal touch.
 
 
-## ⚡️Luminar Version 4.3:
 
