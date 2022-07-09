@@ -12,7 +12,7 @@
 * Disk space - 10 GB free space
 
 ![image](https://user-images.githubusercontent.com/108937754/178012016-5878aeca-f087-438f-9e99-657188d7ded2.png)
-")
+
 🎨 How do I create NFT art?
 Using Painter 2023 you can create several different types of NFT art. The first method, "Style Transfer," is good for turning photos into beautiful pieces of digital art. The second method, "Text to Image," lets you create incredible works of NFT art from just a text cue. To get started on your digital NFT design, click "Create" on the NightCafe main menu, and then select your preferred creation method. Our NFT generator will help you create NFTs that you can then sell.
 
