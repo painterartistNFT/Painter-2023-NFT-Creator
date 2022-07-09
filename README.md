@@ -61,7 +61,7 @@ Yes! If you own (or have permission to use) the original assets used to create y
 
 ![image](https://user-images.githubusercontent.com/108937754/178032740-7a5b33b4-3d60-412f-a913-049331e6ee2d.png)
 
-Read more:https://www.painterartist.com
+Read more : https://www.painterartist.com
 
 Painter development team
 
