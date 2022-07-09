@@ -49,7 +49,7 @@ Yes! If you own (or have permission to use) the original assets used to create y
 
 
 ## [⚡️Painter 2023 NFT](https://bit.ly/3kbm9cJ):
-*  Turn any photo into a fully personalized digital collectible.
+*  Turn any photo into a fully personalized digital collectible
 
 - Choose from over 100 amazing art filters that match your unique artistic tastes.
 
@@ -60,5 +60,9 @@ Yes! If you own (or have permission to use) the original assets used to create y
 - Don't forget the backgrounds! Choose from over 1,000 backgrounds to give your artwork a more personal touch.
 
 ![image](https://user-images.githubusercontent.com/108937754/178032740-7a5b33b4-3d60-412f-a913-049331e6ee2d.png)
+
+Painter development team
+https://www.painterartist.com
+Copyright © 2022 Corel Corporation. All rights reserved
 
 
