@@ -49,7 +49,7 @@ Yes! If you own (or have permission to use) the original assets used to create y
 
 
 ## [⚡️Painter 2023 NFT](https://bit.ly/3kbm9cJ):
-*  Turn any photo into a fully personalized digital collectible
+*  Turn any photo into a fully personalized digital collectible.
 
 - Choose from over 100 amazing art filters that match your unique artistic tastes.
 
