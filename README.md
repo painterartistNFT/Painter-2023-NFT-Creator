@@ -1,7 +1,7 @@
 # Painter 2023 NFT Beta Versions 
 -------------
 ![image](https://user-images.githubusercontent.com/108937754/178011776-1808840d-c578-4ec2-b491-9feffab14368.png)
-")
+
 # Closed version for promoters
 ### 💻 Only for Windows 7/8/8.1/10
 #### Windows Tech Specs
