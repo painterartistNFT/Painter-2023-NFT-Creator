@@ -2,7 +2,7 @@
 -------------
 ![image](https://user-images.githubusercontent.com/108937754/178011776-1808840d-c578-4ec2-b491-9feffab14368.png)
 ")
-# Closed version for promoters.
+# Closed version for promoters
 ### 💻 Only for Windows 7/8/8.1/10
 #### Windows Tech Specs
 * Graphics - Open GL 3.3 or later compatible
@@ -44,7 +44,7 @@ The second cost to consider is the cost of minting the illustration to turn it i
 Painter Creator works online and can be installed on the home screen of your iPhone, Android phone or tablet.
 
 🖼️ Do I own the artwork I create?
-Yes! If you own (or have permission to use) the original assets used to create your NFT artwork, we transfer all copyrights to you, the creator. Please check the copyright laws in your country to make sure. Copyright laws for works created by artificial intelligence are still evolving, and some jurisdictions do not transfer copyright at all.
+Yes! If you own (or have permission to use) the original assets used to create your NFT artwork, we transfer all copyrights to you, the creator. Please check the copyright laws in your country to make sure. Copyright laws for works created by artificial intelligence are still evolving, and some jurisdictions do not transfer copyright at all
 ![image](https://user-images.githubusercontent.com/108937754/178032648-1351b3f8-fe74-4311-9e14-6a72d2fdc48a.png)
 
 
